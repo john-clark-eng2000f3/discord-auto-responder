@@ -38,4 +38,4 @@ python responder.py --token YOUR_BOT_TOKEN_HERE --rules rules.txt
 
 You can exit anytime with `Ctrl+C`.
 
-<!-- verified: 2026-09-13 -->
+<!-- verified: 2026-09-14 -->
